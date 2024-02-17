@@ -22,8 +22,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Computer Science student at Oregon State University.
-
+I am a junior in Computer Science at Oregon State University.
 - 🖥️: I am an aspiring software engineer.
 - 💯: I am getting a minor in mathematics.
 
@@ -42,6 +41,11 @@ I am a Computer Science student at Oregon State University.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=purelyKai&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=purelyKai&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purelyKai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
