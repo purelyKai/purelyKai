@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a junior in Computer Science at Oregon State University.
+I am a senior in Computer Science at Oregon State University.
 - 🖥️: I am an aspiring software engineer.
 - 💯: I am getting a minor in mathematics.
 
