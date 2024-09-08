@@ -46,9 +46,3 @@ I am a senior in Computer Science at Oregon State University.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=purelyKai&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purelyKai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
