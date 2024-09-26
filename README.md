@@ -25,10 +25,10 @@
 ### :man_technologist: About Me :
 I am a senior in Computer Science at Oregon State University.
 - 📚: I'm also pursuing a minor in Mathematics.
-- 🎓: Part of the **Accelerated Master's Program** in Computer Science (expected completion in June 2027).
+- 🎓: Part of the **Accelerated Master's Program** in Computer Science (expected completion in June 2026).
 - 💻: Currently exploring advanced software engineering concepts and working as a Software Engineer Intern at Rohde & Schwarz.
 - 🔍: Researching compute governance and AI training data security as a Research Assistant in the STAR Lab at OSU.
-- 👾: Passionate about building interactive applications and games using cutting-edge technologies.
+- 👾: Passionate about learning advanced algorithms and building interactive applications using cutting-edge technologies.
 
 ---
 
