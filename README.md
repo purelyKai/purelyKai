@@ -1,38 +1,26 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBhNzRkZDYxd3F0cjl0YTRzZXB5cHF2aXllMjY4NXNldXFsNDB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.gif" width="150"/>
-</div>
+<h2 align="center">Hi there 👋, I'm Kai</h2>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kai-black" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+```cpp
+class Kai {
+    private:
+        int            age     = 21;
+        string         school  = "Oregon State University";
+        vector<string> clubs   = {"Association for Computing Machinery", "Google Developer Group on Campus", "Hackathon Club"};
+        vector<string> courses = {"Capstone Project", "Databases", "Networks", "Numerical Analysis"};
+        vector<string> hobbies = {"Archery", "Guitar", "Poker", "Skiing"};
+    public:
+        void getInfo() const;
+};
+```
 
-<div id="visits" align="center">
-  <img src="https://komarev.com/ghpvc/?username=purelyKai&style=flat-square&color=blue" alt=""/>
-</div>
+Here are a few things I've been up to...
 
-<h1 align="center">
-  Hello Everybody! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWY1NzZveWNiZWplemY5MDEwZG83MW4xM211bzF4eGRqYzV1ZDJmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E1Kd3pQwrsMtQbNkt0/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
-### :man_technologist: About Me :
-I am a senior in Computer Science at Oregon State University.
-- 📚: I'm also pursuing a minor in Mathematics.
-- 🎓: Part of the **Accelerated Master's Program** in Computer Science (expected completion in June 2026).
-- 💻: Currently exploring advanced software engineering concepts and working as a Software Engineer Intern at Rohde & Schwarz.
-- 🔍: Researching compute governance and AI training data security as a Research Assistant in the STAR Lab at OSU.
-- 👾: Passionate about learning advanced algorithms and building interactive applications using cutting-edge technologies.
+- 🎓: Creating [a website](https://github.com/AdviseU-Project) that generates optimal degree plans for students
+- 🎵: Learning how to play songs like [Carry On Wayward Son](https://www.youtube.com/watch?v=2X_2IdybTV0) and [House Of The Rising Sun](https://www.youtube.com/watch?v=N4bFqW_eu2I) on the guitar
+- 💻: Competed in the ICPC PNW Regionals competition
+- 👾: Traveled to San Francisco to compete in CalHacks 11.0, the largest collegiate hackathon
 
 ---
-
-### 🛠️ Technical Skills :
 
 #### Languages:
 <div>
@@ -72,12 +60,3 @@ I am a senior in Computer Science at Oregon State University.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>
 </div>
-
-<!--
----
-
-### :fire: My GitHub Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=purelyKai&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purelyKai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
