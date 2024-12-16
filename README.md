@@ -2,14 +2,14 @@
 
 ```cpp
 class Kai {
-    private:
-        int            age     = 21;
-        string         school  = "Oregon State University";
-        vector<string> clubs   = {"Association for Computing Machinery", "Google Developer Group on Campus", "Hackathon Club"};
-        vector<string> courses = {"Capstone Project", "Databases", "Networks", "Numerical Analysis"};
-        vector<string> hobbies = {"Archery", "Guitar", "Poker", "Skiing"};
-    public:
-        void getInfo() const;
+  private:
+    int            age     = 21;
+    string         school  = "Oregon State University";
+    vector<string> clubs   = {"Association for Computing Machinery", "Google Developer Group on Campus", "Hackathon Club"};
+    vector<string> courses = {"Capstone Project", "Databases", "Networks", "Numerical Analysis"};
+    vector<string> hobbies = {"Archery", "Guitar", "Poker", "Skiing"};
+  public:
+    void getInfo() const;
 };
 ```
 
@@ -38,7 +38,7 @@ Here are a few things I've been up to...
 </div>
 
 
-#### Frameworks & Libraries:
+#### Frameworks, Libraries, & Databases:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
