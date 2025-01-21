@@ -3,11 +3,12 @@
 ```cpp
 class Kai {
   private:
-    int            age     = 21;
-    string         school  = "Oregon State University";
-    vector<string> clubs   = {"Association for Computing Machinery", "Google Developer Group on Campus", "Hackathon Club"};
-    vector<string> courses = {"Capstone Project", "Databases", "Networks", "Numerical Analysis"};
-    vector<string> hobbies = {"Archery", "Guitar", "Poker", "Skiing"};
+    int            age       = 21;
+    string         school    = "Oregon State University";
+    vector<string> clubs     = {"Association for Computing Machinery", "Google Developer Group on Campus", "Hackathon Club"};
+    vector<string> courses   = {"Capstone Project", "Databases", "Networks", "Numerical Analysis"};
+    vector<string> hobbies   = {"Archery", "Guitar", "Poker", "Skiing"};
+    vector<string> interests = {"Backend", "Distributed Systems", "Blockchain", "Full Stack"};
   public:
     void getInfo() const;
 };
