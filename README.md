@@ -16,7 +16,7 @@ class Kai {
 
 Here are a few things I've been up to...
 
-- 🎓: Creating [a website](https://github.com/AdviseU-Project) that generates optimal degree plans for students
+- 🎓: Creating [a website](https://adviseu.vercel.app) that generates optimal degree plans for students
 - 🎵: Learning how to play songs like [Carry On Wayward Son](https://www.youtube.com/watch?v=2X_2IdybTV0) and [House Of The Rising Sun](https://www.youtube.com/watch?v=N4bFqW_eu2I) on the guitar
 - 💻: Competed in the ICPC PNW Regionals competitive programming competition
 - 👾: Traveled to San Francisco to compete in CalHacks 11.0, the largest collegiate hackathon
