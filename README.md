@@ -8,7 +8,7 @@ class Kai {
     vector<string> clubs     = {"Association for Computing Machinery", "Google Developer Group", "Hackathon Club"};
     vector<string> courses   = {"Capstone Project", "Databases", "Networks", "Numerical Analysis"};
     vector<string> hobbies   = {"Archery", "Guitar", "Poker", "Skiing"};
-    vector<string> interests = {"Backend", "Blockchain", "Distributed Systems", "Full Stack"};
+    vector<string> interests = {"Backend", "Cloud Infrastructure", "Distributed Systems", "Full Stack"};
   public:
     void getInfo() const;
 };
