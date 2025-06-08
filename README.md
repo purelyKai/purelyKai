@@ -20,7 +20,7 @@ Here are a few things I've been up to...
 - 🎵: Learning how to play songs like [Carry On Wayward Son](https://www.youtube.com/watch?v=2X_2IdybTV0) and [House Of The Rising Sun](https://www.youtube.com/watch?v=N4bFqW_eu2I) on the guitar
 - 💻: Competed in the ICPC PNW Regionals competitive programming competition
 - 👾: Traveled to San Francisco to compete in CalHacks, the largest collegiate hackathon
-- ✨: Incoming SDE Intern @ Amazon
+- ✨: SDE Intern @ Amazon
 
 <!--
 ---
