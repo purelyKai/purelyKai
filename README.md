@@ -15,10 +15,9 @@ class Kai {
 
 Here are a few things I've been up to...
 
-- 🎓: Creating [a website](https://adviseu.app) that generates optimal degree plans for students
-- 🎵: Learning how to play songs like [Carry On Wayward Son](https://www.youtube.com/watch?v=2X_2IdybTV0) and [House Of The Rising Sun](https://www.youtube.com/watch?v=N4bFqW_eu2I) on the guitar
-- 💻: Competed in the ICPC PNW Regionals competitive programming competition
-- 👾: Organized Oregon's largest hackathon: BeaverHacks 2025
+- 🏆: Won top prize at DubHacks 2025 with [Roam](https://github.com/purelyKai/Roam) — interviewed by T-Mobile about it [here](https://www.youtube.com/watch?v=sLsulT3u3lQ)
+- 💻: Competed in the ICPC PNW Regionals competitive programming competition, DubHacks, CalHacks, and QuackHacks
+- 👾: Helped organize Oregon's largest hackathon: BeaverHacks 2025
 - ✨: Previous SDE Intern @ Amazon
 
 <!--
