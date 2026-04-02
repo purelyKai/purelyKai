@@ -18,7 +18,7 @@ Here are a few things I've been up to...
 - 🏆: Won top prize at DubHacks 2025 with [Roam](https://github.com/purelyKai/Roam) — interviewed by T-Mobile about it [here](https://www.youtube.com/watch?v=sLsulT3u3lQ)
 - 💻: Competed in the ICPC PNW Regionals competitive programming competition, DubHacks, CalHacks, and QuackHacks
 - 👾: Helped organize Oregon's largest hackathon: BeaverHacks 2025
-- ✨: Previous SDE Intern @ Amazon
+- ✨: Software Developement Engineer @ Amazon Web Services
 
 <!--
 ---
