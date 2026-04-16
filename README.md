@@ -3,8 +3,8 @@
 ```cpp
 class Kai {
   private:
-    int            age       = 22;
-    string         school    = "Oregon State University";
+    int            age       = 23;
+    string         school    = "BS in CS + Math from Oregon State University";
     vector<string> clubs     = {"Association for Computing Machinery", "Google Developer Group", "Hackathon Club"};
     vector<string> hobbies   = {"Archery", "Guitar", "Poker", "Skiing"};
     vector<string> interests = {"Backend", "Cloud Infrastructure", "Distributed Systems", "Full Stack"};
